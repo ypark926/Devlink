@@ -1,2 +1,5 @@
-# Devlink
-A website for developers to meet with other developers for the purpose of collaborating in projects
+# devlink
+
+The purpose of devLink is to connect developers working on large-scale projects. Say one developer has a brilliant idea: a disruptive and ingenious application that could transform its intended market. Say this developer has dreams of fame and riches (and contributing to the social good), and one day hopes to reach that forever coveted landmark of success among the technological community: we know what you’re thinking, and no, it’s not a million dollar valuation, but a billion dollar valuation. With devLink, developers will no longer just let their dreams be dreams. With devLink, developers will be empowered to realize and actualize their fantasies (#justdoit).
+
+In broad strokes, the functionality of devLink is simple. Developers will be able to login to our application, post projects that they are (or will be) working on, and request a desired number of partners. Other developers will then be able to view these posted projects on a form of “newsfeed” and request to join the project. Developers who are interested in working together may also search for each other and view their profile pages. This profile will contain basic information about themselves and their active project posts. We will also include a field on the profile page that harnesses the google maps API to show the proximity of each developer to each other. 
